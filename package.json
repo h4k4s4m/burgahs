@@ -1,0 +1,15 @@
+{
+  "name": "burgahs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/h4k4s4m/burgahs.git",
+  "author": "Sahm Samarghandi <h4k4s4m@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
